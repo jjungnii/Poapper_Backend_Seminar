@@ -1,0 +1,13 @@
+{
+    "name": "Park Jung-eun",
+    "job": "student",
+    "age":"22",
+    "hobby": ["listening to music"],
+    "course_table": [
+        {"name": "데이터구조", "id": "CSED233"},
+        {"name": "컴퓨터구조", "id": "CSED311"},
+        {"name": "인공지능", "id": "CSED342"},
+        {"name": "몸과기술", "id": "CMST408"},
+        {"name": "세계문명사의 전환점", "id": "CMCC302"}
+    ]
+}
